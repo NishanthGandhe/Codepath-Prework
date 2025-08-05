@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub.
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Press here for the loom video](https://www.loom.com/share/b50a3196cba142799934792a0886d7fd?sid=4d221f1c-c5aa-45bf-b346-b7efbe990b0c)
 
 ## App Brainstorming (Step 4)
 
@@ -43,7 +41,7 @@ I had difficulty navigating Xcode when I first opened up the IDE. It took a coup
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Nishanth gandhe]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
