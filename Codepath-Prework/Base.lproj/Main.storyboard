@@ -38,10 +38,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yih-wa-Hk4">
-                                <rect key="frame" x="159" y="345" width="75" height="35"/>
+                                <rect key="frame" x="155" y="345" width="83" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
+                                <buttonConfiguration key="configuration" style="plain" title="Change">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" red="0.5" green="0.11228745430000001" blue="0.1838936582" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <color key="strokeColor" red="0.5" green="0.11228745430000001" blue="0.1838936582" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
